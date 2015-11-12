@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+	<game id="1">
+		<title>Call of Duty></title>
+		<release>
+			<year>2007</year>
+			<month>06</month>
+			<day>27</day>
+		</release>
+		<publisher>Infinity</publisher>
+		<engine>source</engine>
+		<platforms>
+			<platform>Windows</platform>
+			<platform>Xbox</platform>
+			<platform>Wii</platform>
+		</platforms>
+	</game>
+	<game id="2">
+		<title>Bioshock</title>
+		<release>
+			<year>2007</year>
+			<month>09</month>
+			<day>12</day>
+		</release>
+		<publisher>2k Games</publisher>
+		<engine>Unreal 2.5</engine>
+		<platforms>
+			<platform>Windows</platform>
+			<platform>xbox 360</platform>
+			<platform>Play station 3</platform>
+		</platforms>
+	</game>
+	<game id="3">
+		<title>Need for speed</title>
+		<release>
+			<year>1994</year>
+			<month>08</month>
+			<day>31</day>
+		</release>
+		<publisher>Pioneer Productions</publisher>
+		<engine>na</engine>
+		<platforms>
+			<platform>playstation</platform>
+			<platform>Sega Saturn</platform>
+			<platform>DOS</platform>	
+		</platforms>
+	</game>
+	<game id="4">
+		<title>Crash Bandicoot</title>
+		<release>
+			<year>1996</year>
+			<month>09</month>
+			<day>09</day>
+		</release>
+		<publisher>Sony Computer Entertainment</publisher>
+		<engine>na</engine>
+		<platforms>
+			<platform>PlayStation</platform>
+		</platforms>
+	</game>	
+	<game id="5">
+		<title>Slender</title>
+		<release>
+			<year>2012</year>
+			<month>06</month>
+			<day>26</day>
+		</release>
+		<publisher>parsec productions</publisher>
+		<engine>unity</engine>
+		<platforms>
+			<platform>windows</platform>
+			<platform>os x</platform>
+		</platforms>
+	</game>
+</games>
+
+	

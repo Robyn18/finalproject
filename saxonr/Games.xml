@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <games>
+    <game id="1234">
+		<title>Portal</title>
+		<release>
+			<year>2007</year>
+			<month>06</month>
+			<day>27</day>
+		</release>
+		<publisher>Valve Corporation</publisher>
+		<engine>Some Name</engine>
+		<platforms>
+		  	<platform>Windows</platform>
+			<platform>Xbox</platform>
+			<platform>Playstation</platform>
+		</platforms>
+	</game>
+	
+		<game id="5678">
+			<title>Bioshock</title>
+         	<release>
+		 		<year>2007</year>
+				<month>09</month>
+				<day>12</day>
+			</release>
+			<publisher>2K Games</publisher>
+		  	<engine>Some Name</engine>
+		  	<platforms>
+		  		<platform>Windows</platform>
+				<platform>Xbox</platform>
+				<platform>Playstation</platform>
+			</platforms>
+    	</game>
+	
+		<game id="2437">
+			<title>Call of Duty: Advanced Warfare</title>
+			<release>
+				<year>2014</year>
+				<month>11</month>
+				<day>04</day>
+			</release>
+			<publisher>Square Enix, Activision</publisher>
+			<engine>Some Name</engine>
+			<platforms>
+				<platform>PlayStation 4</platform>
+				<platform>Xbox One</platform>
+				<platform>PlayStation 3</platform>
+			</platforms>
+		</game>
+
+	<game id="2438">
+         <title>The Elder Scrolls V: Skyrim</title>
+         <release>
+		 	<year>2011</year>
+			<month>11</month>
+			<day>11</day></release>
+         <publisher>Bethesda Softworks</publisher>
+		  <engine>Some Name</engine>
+		  <platforms>
+		  	<platform>PlayStation 3</platform>
+			<platform>Xbox 360</platform>
+			<platform>Windows</platform>
+			</platforms>
+    </game>
+	
+		<game id="2439">
+         <title>Need for Speed: Most Wanted</title>
+         <release>
+		 	<year>2005</year>
+			<month>11</month>
+			<day>11</day></release>
+         <publisher>Electronic Arts</publisher>
+		  <engine>Some Name</engine>
+		  <platforms>
+		  	<platform>PlayStation 3</platform>
+			<platform>Xbox</platform>
+			<platform>Windows</platform>
+			</platforms>
+    </game>
+	
+			<game id="0172">
+         <title>Hitman</title>
+         <release>
+		 	<year>2000</year>
+			<month>11</month>
+			<day>19</day></release>
+         <publisher>Eidos Interactive </publisher>
+		  <engine>Some Name</engine>
+		  <platforms>
+		  	<platform>PlayStation 2</platform>
+			<platform>Xbox 360</platform>
+			<platform>Android</platform>
+			</platforms>
+    </game>
+	
+				<game id="0173">
+         <title>Batman: Arkham Knight</title>
+         <release>
+		 	<year>2015</year>
+			<month>06</month>
+			<day>02</day></release>
+         <publisher>Warner Bros. Interactive Entertainment</publisher>
+		  <engine>Unreal Engine 3</engine>
+		  <platforms>
+		  	<platform>Windows</platform>
+			<platform>Xbox One</platform>
+			<platform>PlayStation 4</platform>
+			</platforms>
+    </game>
+			
+			
+	
+  </games>
